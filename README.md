@@ -18,39 +18,39 @@
 比賽時馬達故障　　<br />
 
 ### Python
-基本認知
-迴圈變數。做一些題目
+基本認知　　<br />
+迴圈變數。做一些題目　　<br />
 
 ### Tello
-試過程式控制
-飛爽的
+試過程式控制　　<br />
+飛爽的　　<br />
 —————————
 ### RaspberryPi
-灌系統
-基本指令
-Minecraft Server
-Touch screen
-Android 系統 灌APK
-印殼子（計畫
-Router功能（計畫
+灌系統　　<br />
+基本指令　　<br />
+Minecraft Server　　<br />
+Touch screen　　<br />
+Android 系統 灌APK　　<br />
+印殼子（計畫　　<br />
+Router功能（計畫　　<br />
 
 ### Linux
-鳥哥的Linux私房菜
-基本指令
-Xubuntu
-Raspbian
+鳥哥的Linux私房菜　　<br />
+基本指令　　<br />
+Xubuntu　　<br />
+Raspbian　　<br />
 
 ### Github
-正在學
+正在學　　
 
 
 ### Arduino
-DFRobot機器人教程（初階/進階）
-基本程控/電學
-IDE不是很熟
+DFRobot機器人教程（初階/進階）　　<br />
+基本程控/電學　　<br />
+IDE不是很熟　　<br />
 
 ### HTML5
-基本用法（忘光了）
+基本用法（忘光了）　　<br />
 
 
 
