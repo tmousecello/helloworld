@@ -16,6 +16,7 @@
 ### 智慧小車
 循跡、載運泡綿積木　　<br />
 比賽時馬達故障　　<br />
+https://sites.google.com/a/go.pymhs.tyc.edu.tw/startlearning/
 
 ### Python
 基本認知　　<br />
